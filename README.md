@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shivakarka
 - 👀 I’m interested in Software and web development
-- 🌱 I’m currently learning web development through coding ninjas and other resources
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakarka/)
 
