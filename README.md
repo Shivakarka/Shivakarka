@@ -4,9 +4,9 @@
 
 <br>
 
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F73890&background=D2D2D200&center=true&vCenter=true&multiline=true&width=500&lines=Hello..+I+am+Shiva+Karka+;I+am+a+frontend+web+developer)](https://git.io/typing-svg)
-<p>
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakarka/)
 
