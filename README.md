@@ -1,10 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F73890&background=D2D2D200&center=true&vCenter=true&width=500&lines=Hello..+I+am+Shiva+Karka+;I+am+a+frontend+web+developer)](https://git.io/typing-svg)
+
+<br>
 <p align="center">
 <img alt="GIF" src="https://user-images.githubusercontent.com/64298475/180621614-0b984fb9-56bb-405a-aac5-a3be1199faf2.gif" width="500" height="320" />
 </p>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F73890&background=D2D2D200&center=true&vCenter=true&width=500&lines=Hello..+I+am+Shiva+Karka+;I+am+a+frontend+web+developer)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakarka/)
 
