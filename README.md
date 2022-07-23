@@ -1,5 +1,6 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/64298475/180621614-0b984fb9-56bb-405a-aac5-a3be1199faf2.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/64298475/180621614-0b984fb9-56bb-405a-aac5-a3be1199faf2.gif" width="500" height="320" />
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73890&center=true&vCenter=true&width=500&lines=Hello..+I+am+Shiva+Karka+;I+am+a+frontend+web+developer)](https://git.io/typing-svg)
 
