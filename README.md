@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <br>
 ## 📁 Recent Repositories 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Todo-list-react)](https://github.com/Shivakarka/Todo-list-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=game-hub)](https://github.com/Shivakarka/game-hub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Portfolio)](https://github.com/Shivakarka/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Ecommerce)](https://github.com/Shivakarka/Ecommerce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=tictactoe)](https://github.com/Shivakarka/tictactoe)
