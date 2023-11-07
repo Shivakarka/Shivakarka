@@ -6,8 +6,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakarka/)
 
 ## 👩‍💻 Skills
- HTML , CSS , Javascript, Typescript, React JS, Redux, Redux Toolkit, Zustand, Tanstack Query, Tailwind CSS, Bootstrap, Chakra UI, Node JS, Express JS, MongoDB, Mongoose ORM, MySQL, Sequelize ORM, 
- Java, Python
+- 👨‍💻 Javascript, Typescript, Java, Python
+- ⚙️ React JS, Node JS, Express JS
+- 👁️ CSS, Tailwind CSS, Bootstrap, Chakra UI
+- 💽 MySQL, SQL, Mongo
+- 🔮 + 🪄 Tanstack Query, Zustand, Redux, Sequelize ORM, Mongoose
++ a lot more :D
 <br>
 ## 📁 Recent Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=game-hub)](https://github.com/Shivakarka/game-hub)
