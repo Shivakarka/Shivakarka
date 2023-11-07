@@ -12,7 +12,9 @@
 - 💽 MySQL, SQL, Mongo
 - 🔮 + 🪄 Tanstack Query, Zustand, Redux, Sequelize ORM, Mongoose
 + a lot more :D
+  
 <br>
+
 ## 📁 Recent Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=game-hub)](https://github.com/Shivakarka/game-hub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Portfolio)](https://github.com/Shivakarka/Portfolio)
