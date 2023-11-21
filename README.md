@@ -17,8 +17,8 @@
 
 ## 📁 Recent Repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=game-hub)](https://github.com/Shivakarka/game-hub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Portfolio)](https://github.com/Shivakarka/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=Ecommerce)](https://github.com/Shivakarka/Ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=fiverr)](https://github.com/Shivakarka/fiverr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=proshop)](https://github.com/Shivakarka/proshop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shivakarka&theme=dark&repo=tictactoe)](https://github.com/Shivakarka/tictactoe)
 
 ## 📈 GitHub Stats
