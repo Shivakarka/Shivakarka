@@ -4,6 +4,7 @@
 <br>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakarka/)
+[![resume](https://img.shields.io/badge/resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ftpJug8MFYijicA_Cd_D5XxqaOlPg8tl/view?usp=sharing)
 
 ## 👩‍💻 Skills
 - 👨‍💻 Javascript, Typescript, Java, Python
